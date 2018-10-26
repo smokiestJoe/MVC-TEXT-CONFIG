@@ -1,0 +1,746 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/lib/SystemClasses/PluginLoader.php" line="142" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="10a06833-2be3-4596-bb0a-5a4a17800ae0" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-385872541">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="css" value="1" />
+          <entry key="js" value="2" />
+          <entry key="php" value="8" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSS" value="1" />
+          <entry key="JavaScript" value="2" />
+          <entry key="PHP" value="8" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ajax/pluginPost.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="510">
+              <caret line="35" selection-start-line="35" selection-end-line="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/script/js/testFile.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/pageusr/page1.php">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/pageusr/page3.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="28" lean-forward="true" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/pageusr/page2.php">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/jquery/jquery-3.3.1.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/css/native.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="23" column="57" selection-start-line="23" selection-start-column="57" selection-end-line="23" selection-end-column="57" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/SystemClasses/ConfigurationManager.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/SystemClasses/PluginLoader.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="438">
+              <caret line="82" column="29" selection-start-line="82" selection-start-column="25" selection-end-line="82" selection-end-column="29" />
+              <folding>
+                <marker date="1527505987970" expanded="true" signature="1797:1818" ph="SELECT * FRO... Plugins" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lib/SystemClasses/PluginBuilder.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="935">
+              <caret line="55" lean-forward="true" selection-start-line="55" selection-end-line="55" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>$_S</find>
+      <find>POP</find>
+      <find>pop</find>
+      <find>views</find>
+      <find>partials</find>
+      <find>page1.php</find>
+      <find>FIRED</find>
+      <find>try</find>
+      <find>PluginValidator</find>
+      <find>PdoS</find>
+      <find>PdoSin</find>
+      <find>vali</find>
+      <find>PluginVa</find>
+    </findStrings>
+    <dirStrings>
+      <dir>C:\joeWebDev\Templates\intermediate\www\bootstrap\css</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/lib/HtmlClasses/HtmlPageBody.php" />
+        <option value="$PROJECT_DIR$/lib/HtmlClasses/HtmlClose.php" />
+        <option value="$PROJECT_DIR$/lib/HtmlClasses/HtmlPageSetup.php" />
+        <option value="$PROJECT_DIR$/lib/HtmlClasses/HtmlPageManager.php" />
+        <option value="$PROJECT_DIR$/www/page2.php" />
+        <option value="$PROJECT_DIR$/www/page1.php" />
+        <option value="$PROJECT_DIR$/src/partials/AboutView.php" />
+        <option value="$PROJECT_DIR$/www/pages/page1.php" />
+        <option value="$PROJECT_DIR$/src/partials/homeView.php" />
+        <option value="$PROJECT_DIR$/src/partials/page2View.php" />
+        <option value="$PROJECT_DIR$/src/partials/page1View.php" />
+        <option value="$PROJECT_DIR$/www/views/popup_menu_config.php" />
+        <option value="$PROJECT_DIR$/www/POPTEST.php" />
+        <option value="$PROJECT_DIR$/src/views/popMenuConfig.php" />
+        <option value="$PROJECT_DIR$/www/img/configPopup.php" />
+        <option value="$PROJECT_DIR$/www/views/popMenuConfig.php" />
+        <option value="$PROJECT_DIR$/src/SystemClasses/pop_options/PopMenu.php" />
+        <option value="$PROJECT_DIR$/www/configPopup.php" />
+        <option value="$PROJECT_DIR$/src/views/popConfigMenu.php" />
+        <option value="$PROJECT_DIR$/lib/config/pluginSettings" />
+        <option value="$PROJECT_DIR$/www/pages-system/configPopup.php" />
+        <option value="$PROJECT_DIR$/www/index.php" />
+        <option value="$PROJECT_DIR$/www/pages-system/home.php" />
+        <option value="$PROJECT_DIR$/www/home.php" />
+        <option value="$PROJECT_DIR$/src/headers/viewHeader.php" />
+        <option value="$PROJECT_DIR$/lib/HtmlClasses/csadsa" />
+        <option value="$PROJECT_DIR$/lib/HtmlClasses/HtmlPageNavBar.php" />
+        <option value="$PROJECT_DIR$/www/pages/home.php" />
+        <option value="$PROJECT_DIR$/lib/HtmlClasses/HtmlPageCatBar.php" />
+        <option value="$PROJECT_DIR$/lib/HtmlClasses/HtmlPageClose.php" />
+        <option value="$PROJECT_DIR$/lib/HtmlClasses/HtmlPageFooter.php" />
+        <option value="$PROJECT_DIR$/lib/HtmlClasses/HtmlPageRenderer.php" />
+        <option value="$PROJECT_DIR$/lib/HtmlClasses/HtmlPageTabBuilder.php" />
+        <option value="$PROJECT_DIR$/lib/SystemClasses/TagBuilder.php" />
+        <option value="$PROJECT_DIR$/lib/HtmlClasses/HtmlPageHead.php" />
+        <option value="$PROJECT_DIR$/lib/HtmlClasses/HtmlPageHeader.php" />
+        <option value="$PROJECT_DIR$/www/css/native.css" />
+        <option value="$PROJECT_DIR$/lib/SystemClasses/TagRenderer.php" />
+        <option value="$PROJECT_DIR$/www/pages/configPopup.php" />
+        <option value="$PROJECT_DIR$/src/ajax/pluginPost.php" />
+        <option value="$PROJECT_DIR$/src/partials/popConfigMenu.php" />
+        <option value="$PROJECT_DIR$/lib/DataSource/PDO.php" />
+        <option value="$PROJECT_DIR$/src/headers/systemHeader.php" />
+        <option value="$PROJECT_DIR$/lib/SystemClasses/PluginBuilder.php" />
+        <option value="$PROJECT_DIR$/lib/SystemClasses/ConfigurationManager.php" />
+        <option value="$PROJECT_DIR$/lib/SystemClasses/PluginLoader.php" />
+        <option value="$PROJECT_DIR$/lib/SystemClasses/PluginWriter.php" />
+        <option value="$PROJECT_DIR$/lib/SystemClasses/PluginValidator.php" />
+        <option value="$PROJECT_DIR$/lib/DataSource/PdoSingleton.php" />
+        <option value="$PROJECT_DIR$/lib/HtmlClasses/HtmlPageAbstract.php" />
+        <option value="$PROJECT_DIR$/lib/HtmlClasses/HtmlPageBuilder.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-12" />
+    <option name="y" value="-12" />
+    <option name="width" value="3863" />
+    <option name="height" value="2123" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Homey" type="b2602c69:ProjectViewProjectNode" />
+              <item name="homey" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Homey" type="b2602c69:ProjectViewProjectNode" />
+              <item name="homey" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Homey" type="b2602c69:ProjectViewProjectNode" />
+              <item name="homey" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Homey" type="b2602c69:ProjectViewProjectNode" />
+              <item name="homey" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="DataSource" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Homey" type="b2602c69:ProjectViewProjectNode" />
+              <item name="homey" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="HtmlClasses" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Homey" type="b2602c69:ProjectViewProjectNode" />
+              <item name="homey" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="SystemClasses" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Homey" type="b2602c69:ProjectViewProjectNode" />
+              <item name="homey" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Homey" type="b2602c69:ProjectViewProjectNode" />
+              <item name="homey" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ajax" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Homey" type="b2602c69:ProjectViewProjectNode" />
+              <item name="homey" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="headers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Homey" type="b2602c69:ProjectViewProjectNode" />
+              <item name="homey" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="partials" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Homey" type="b2602c69:ProjectViewProjectNode" />
+              <item name="homey" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Homey" type="b2602c69:ProjectViewProjectNode" />
+              <item name="homey" type="462c0819:PsiDirectoryNode" />
+              <item name="www" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Homey" type="b2602c69:ProjectViewProjectNode" />
+              <item name="homey" type="462c0819:PsiDirectoryNode" />
+              <item name="www" type="462c0819:PsiDirectoryNode" />
+              <item name="bootstrap" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Homey" type="b2602c69:ProjectViewProjectNode" />
+              <item name="homey" type="462c0819:PsiDirectoryNode" />
+              <item name="www" type="462c0819:PsiDirectoryNode" />
+              <item name="bootstrap" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Homey" type="b2602c69:ProjectViewProjectNode" />
+              <item name="homey" type="462c0819:PsiDirectoryNode" />
+              <item name="www" type="462c0819:PsiDirectoryNode" />
+              <item name="bootstrap" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Homey" type="b2602c69:ProjectViewProjectNode" />
+              <item name="homey" type="462c0819:PsiDirectoryNode" />
+              <item name="www" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Homey" type="b2602c69:ProjectViewProjectNode" />
+              <item name="homey" type="462c0819:PsiDirectoryNode" />
+              <item name="www" type="462c0819:PsiDirectoryNode" />
+              <item name="jquery" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Homey" type="b2602c69:ProjectViewProjectNode" />
+              <item name="homey" type="462c0819:PsiDirectoryNode" />
+              <item name="www" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Homey" type="b2602c69:ProjectViewProjectNode" />
+              <item name="homey" type="462c0819:PsiDirectoryNode" />
+              <item name="www" type="462c0819:PsiDirectoryNode" />
+              <item name="pageusr" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Homey" type="b2602c69:ProjectViewProjectNode" />
+              <item name="homey" type="462c0819:PsiDirectoryNode" />
+              <item name="www" type="462c0819:PsiDirectoryNode" />
+              <item name="script" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="php.override.implement.member.chooser.php.doc" value="NONE" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\joeWebDev\Templates\intermediate\src" />
+      <recent name="C:\joeWebDev\Templates\journeyman\src\partials" />
+      <recent name="C:\joeWebDev\Templates\Novice\www" />
+      <recent name="C:\joeWebDev\Templates\Novice\lib\SystemClasses" />
+      <recent name="C:\joeWebDev\Templates\Novice\lib\config" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\joeWebDev\Templates\intermediate\lib\HtmlClasses" />
+      <recent name="C:\joeWebDev\Templates\intermediate\www\pages-system" />
+      <recent name="C:\joeWebDev\Templates\intermediate\www\pages" />
+      <recent name="C:\joeWebDev\Templates\intermediate\www" />
+      <recent name="C:\joeWebDev\Templates\intermediate\www\img" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="10a06833-2be3-4596-bb0a-5a4a17800ae0" name="Default" comment="" />
+      <created>1524407061743</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1524407061743</updated>
+      <workItem from="1524407062824" duration="4152000" />
+      <workItem from="1524500499848" duration="4774000" />
+      <workItem from="1524513860446" duration="2250000" />
+      <workItem from="1524585598270" duration="7317000" />
+      <workItem from="1524673106077" duration="2946000" />
+      <workItem from="1524677465576" duration="5627000" />
+      <workItem from="1524758219519" duration="10131000" />
+      <workItem from="1524843174419" duration="6269000" />
+      <workItem from="1525371258694" duration="2403000" />
+      <workItem from="1525539119596" duration="863000" />
+      <workItem from="1525801532817" duration="80000" />
+      <workItem from="1525883344675" duration="6459000" />
+      <workItem from="1526656605617" duration="38000" />
+      <workItem from="1526662671317" duration="22183000" />
+      <workItem from="1526717178299" duration="19201000" />
+      <workItem from="1526739792238" duration="24114000" />
+      <workItem from="1526845968353" duration="2456000" />
+      <workItem from="1526920377885" duration="8036000" />
+      <workItem from="1526930698270" duration="206000" />
+      <workItem from="1527008570445" duration="5092000" />
+      <workItem from="1527091956056" duration="13312000" />
+      <workItem from="1527183449466" duration="4574000" />
+      <workItem from="1527192372442" duration="2639000" />
+      <workItem from="1527265142969" duration="20822000" />
+      <workItem from="1527327307217" duration="31580000" />
+      <workItem from="1527366357559" duration="120000" />
+      <workItem from="1527366673272" duration="4850000" />
+      <workItem from="1527441038727" duration="5903000" />
+      <workItem from="1527499837656" duration="7468000" />
+      <workItem from="1527507942625" duration="7000" />
+      <workItem from="1540537394998" duration="783000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="226655000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="2575" height="1415" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23300199" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3282326" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/www/dodgy.php" />
+    <entry file="file://$PROJECT_DIR$/src/headers/htmlHeader.php" />
+    <entry file="file://$PROJECT_DIR$/src/partials/AboutView.php" />
+    <entry file="file://$PROJECT_DIR$/www/pages/page1.php" />
+    <entry file="file://$PROJECT_DIR$/www/pages/page3.php" />
+    <entry file="file://$PROJECT_DIR$/lib/config/pluginSettings.tmp" />
+    <entry file="file://$PROJECT_DIR$/www/views/popup_menu_config.php" />
+    <entry file="file://$PROJECT_DIR$/src/views/popMenuConfig.php" />
+    <entry file="file://$PROJECT_DIR$/www/views/popMenuConfig.php" />
+    <entry file="file://$PROJECT_DIR$/src/SystemClasses/pop_options/PopMenu.php" />
+    <entry file="file://$PROJECT_DIR$/www/page3.php" />
+    <entry file="file://$PROJECT_DIR$/www/page2.php" />
+    <entry file="file://$PROJECT_DIR$/www/page1.php" />
+    <entry file="file://$PROJECT_DIR$/lib/HtmlClasses/csadsa" />
+    <entry file="file://$PROJECT_DIR$/lib/config/pluginSettings">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/DataSource/PDO.php" />
+    <entry file="file://$PROJECT_DIR$/src/views/homeView.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/page1View.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" column="28" lean-forward="true" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/page2View.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" column="28" lean-forward="true" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/page3View.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/headers/viewHeader.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="800">
+          <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/SystemClasses/TagRenderer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="41" column="4" selection-start-line="41" selection-start-column="4" selection-end-line="41" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/SystemClasses/TagBuilder.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1630">
+          <caret line="97" column="5" selection-start-line="97" selection-start-column="5" selection-end-line="97" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/pages/home.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="12" selection-start-line="12" selection-end-line="12" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/headers/systemHeader.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/pages/configPopup.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/partials/popConfigMenu.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1598">
+          <caret line="99" column="38" selection-start-line="99" selection-start-column="38" selection-end-line="99" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/HtmlClasses/HtmlPageCatBar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/HtmlClasses/HtmlPageClose.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/SystemClasses/PluginWriter.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2771">
+          <caret line="168" column="5" selection-start-line="168" selection-start-column="5" selection-end-line="168" selection-end-column="5" />
+          <folding>
+            <marker date="1527506350785" expanded="true" signature="3192:3249" ph="UPDATE Plugins... " />
+            <marker date="1527506350785" expanded="true" signature="3368:3405" ph="/** * @retur... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/HtmlClasses/HtmlPageBuilder.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/SystemClasses/PluginValidator.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="969">
+          <caret line="62" selection-start-line="62" selection-end-line="62" />
+          <folding>
+            <marker date="1527506676315" expanded="true" signature="1449:1504" ph="UPDATE Plugins... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/HtmlClasses/HtmlPageFooter.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+          <folding>
+            <marker date="1527357632317" expanded="true" signature="234:419" ph="..." />
+            <marker date="1527357632317" expanded="true" signature="272:397" ph="..." />
+            <marker date="1527357632317" expanded="true" signature="296:374" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/HtmlClasses/HtmlPageHead.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="663">
+          <caret line="44" selection-start-line="44" selection-end-line="44" />
+          <folding>
+            <marker date="1527357853215" expanded="true" signature="242:904" ph="..." />
+            <marker date="1527357853215" expanded="true" signature="268:904" ph="..." />
+            <marker date="1527357853215" expanded="true" signature="1175:1204" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/HtmlClasses/HtmlPageHeader.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/HtmlClasses/HtmlPageNavBar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+          <folding>
+            <marker date="1527352060305" expanded="true" signature="303:312" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/HtmlClasses/HtmlPageRenderer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/HtmlClasses/HtmlPageAbstract.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1853">
+          <caret line="114" column="42" selection-start-line="114" selection-start-column="42" selection-end-line="114" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/DataSource/PdoSingleton.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="8" column="4" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/HtmlClasses/HtmlPageTabBuilder.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1591">
+          <caret line="120" selection-start-line="120" selection-end-line="120" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ajax/pluginPost.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/script/js/testFile.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/pageusr/page1.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/pageusr/page3.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="28" lean-forward="true" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/pageusr/page2.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/jquery/jquery-3.3.1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/css/native.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="57" selection-start-line="23" selection-start-column="57" selection-end-line="23" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/SystemClasses/ConfigurationManager.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/SystemClasses/PluginLoader.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="438">
+          <caret line="82" column="29" selection-start-line="82" selection-start-column="25" selection-end-line="82" selection-end-column="29" />
+          <folding>
+            <marker date="1527505987970" expanded="true" signature="1797:1818" ph="SELECT * FRO... Plugins" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/SystemClasses/PluginBuilder.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="935">
+          <caret line="55" lean-forward="true" selection-start-line="55" selection-end-line="55" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
